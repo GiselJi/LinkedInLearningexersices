@@ -1,0 +1,87 @@
+{
+	"id": "0035c7b3-9739-4007-9133-cad7fa021c4b",
+	"name": "Contact List",
+	"values": [
+		{
+			"key": "firstName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "contactId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "birthdate",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "phone",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "street1",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "street2",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "city",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "stateProvince",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "postalCode",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "country",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-10-20T22:46:16.037Z",
+	"_postman_exported_using": "Postman/11.68.0"
+}
