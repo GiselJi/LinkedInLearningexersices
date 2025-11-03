@@ -75,18 +75,3 @@ class Car(Vehicle): #Creating a class(abstract idea of an object)
             self.turn_steering_wheel(direction)
         else:
             print("Did not understand direction")
-
-moto = Motorcycle('Triumph', 'Thruxton') #Creating a new instance of a class
-car = Car('Honda', 'Civic')
-
-for vehicles in [moto, car]:
-    print(vehicles) #Prints mem address of the instance if no __repr__ defined 
-
-    vehicles.turn_engine_on()
-    vehicles.turn_headligh_on()
-    vehicles.start_driving()
-    vehicles.turn('left')
-    vehicles.turn('right')
-    vehicles.stop_driving()
-    vehicles.turn_engine_off()
-    vehicles.turn_headlight_off()
